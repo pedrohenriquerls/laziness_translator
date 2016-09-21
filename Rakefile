@@ -20,8 +20,6 @@ namespace :translator do
       end
     end
 
-    byebug
-
     File.open("new_i18n_file.yml", "w") do |file|
       new_i18n_file = {}
       new_i18n_file[language_code.to_sym] = translated_hash
