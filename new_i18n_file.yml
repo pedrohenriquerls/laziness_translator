@@ -1,0 +1,303 @@
+---
+:es:
+  '': ''
+  modal:
+    congratulations:
+      not_today: Ahora no
+      new: Empezar otro plan
+  template:
+    created: Modelo creado con éxito
+    not_created: Es necesario introducir el nombre del plan para crear un modelo.
+    create_project: Crear un plan
+  header:
+    projects: Mis planes
+    templates: Modelos de plan
+  record_not_found: Plan de Éxito no existe.
+  action: Opciones
+  actions:
+    erase: Borrar
+    become_template: Convertirse en modelo
+  placeholder:
+    description: Descripción
+    name: Nombre del Plan
+    new_action: "+ Agregar acción"
+  empty:
+    action:
+      due_date: Plazo
+      owner: Responsable
+    owner: Definir responsable del plan
+    due_date: Establecer el plazo del plan
+  templates:
+    lead_generation_img: lead_generation.png
+    lead_generation: Generación de Leads
+    lead_generation_description: Crear una oferta de contenido para atraer a los Visitantes
+      a su Landing Page y convertirlos en Leads!
+    lead_generation_actions:
+      content_offer: Crear oferta de contenido
+      content_offer_description: Crear una oferta de contenido (por ejemplo, un eBook
+        o Webinar) para atraer a los Visitantes a una Landing Page.
+      content_offer_know_more: Siga el <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/producao-de-oferta"
+        target="_blank">paso a paso</a> detallado para crear su oferta de contenidos
+        y descubra cómo la propia RD crea sus ofertas!!!
+      publish_tofu_landing_page: Publicar Landing Page de la parte superior de la
+        tolva
+      publish_landing_page: Publicar Landing Page
+      publish_landing_page_description: Publica una Landing Page para que un Visitante
+        dé su información (incluyendo tu dirección de correo electrónico) a cambio
+        de una oferta de contenido.
+      publish_landing_page_know_more: Entienda <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/estrategia-de-promocao-da-oferta"
+        target="_blank">¿qué es una Landing Page</a> y descubre lo fácil que es <a
+        href="https://app.rdstation.com.br/landing-pages/nova" target="_blank">crear
+        páginas de conversión</a> en el RD Station!
+      automation_for_nutrition: Crear flujo de automatización para la nutrición
+      promote_landing_page_on_social_media: Programar mensajes en las redes sociales
+        para promover Landing Page
+      promote_landing_page_on_social_media_description: Hola Landing Page en Facebook,
+        Twitter y LinkedIn para atraer a los visitantes para ella.
+      promote_landing_page_on_social_media_know_more: Ver <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/promocao-de-oferta-em-midias-sociais"
+        target="_blank">consejos</a> sobre como aprovechar al máximo las características
+        de cada red social y potenciar los resultados de tu Landing Page!
+      segment_for_campaign: Orientar a la campaña de correo electrónico
+      segment_for_campaign_description: Filtre su Base de clientes potenciales de
+        acuerdo con algunos criterios, para mejorar el rendimiento de su campaña de
+        correo electrónico.
+      segment_for_campaign_know_more: Descubre por qué a la <a href="http://resultadosdigitais.com.br/blog/segmentacao-como-gerar-melhores-resultados-enviando-menos-emails/"
+        target="_blank">segmentación es el secreto</a> por detrás de excelentes campañas
+        de correo electrónico.
+      send_email_to_promote_landing_page: Enviar correo electrónico a promover Landing
+        Page
+      send_email_to_promote_landing_page_description: Envíe su Landing Page por correo
+        electrónico a sus contactos actuales y intensifique su relación con ellos.
+      send_email_to_promote_landing_page_know_more: Dudas sobre como difundir su oferta
+        de contenido por correo electrónico? Ver el <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/promocao-de-oferta-para-a-base-de-leads"
+        target="_blank">paso a paso</a> detallado.
+      promote_lp_on_blog: Promover Landing Page en el blog
+      promote_lp_on_blog_description: Agregue CTAs en su blog para llevar visitantes
+        a tu Landing Page.
+      promote_lp_on_blog_know_more: Descubra <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/promocao-de-oferta-para-os-visitantes-do-seu-site-e-blog"
+        target="_blank">¿qué son las CTAs</a> y cómo se puede utilizar el tráfico
+        de tu blog para generar aún más Leads!
+      promote_lp_on_site: Promover Landing Page en el sitio web
+      promote_lp_on_site_description: Agregue CTAs en su sitio para llevar a los visitantes
+        a su Landing Page.
+      promote_lp_on_site_know_more: Descubra <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/promocao-de-oferta-para-os-visitantes-do-seu-site-e-blog"
+        target="_blank">¿qué son las CTAs</a> y cómo se puede utilizar el tráfico
+        de su sitio web para generar aún más Leads!
+      promote_lp_on_paid_media: Promover Landing Page en los medios de comunicación
+        de paga
+      promote_lp_on_paid_media_description: Utilice medios de pago para aumentar el
+        número de Visitantes que llegan a tu Landing Page.
+      promote_lp_on_paid_media_know_more: Siga los pasos de nuestro <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/promocao-de-oferta-em-midia-paga"
+        target="_blank">tutorial</a> y aproveche al máximo el potencial de los medios
+        de comunicación pagados, incluso sin experiencia previa!
+      mark_opportunities: Marcar oportunidades
+      mark_opportunities_description: Busque Oportunidades de venta que muestran interés
+        y se ajustan en su público objetivo, para repasarlos para los vendedores.
+      mark_opportunities_know_more: Siga los pasos de nuestro <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/qualificacao-de-leads"
+        target="_blank">tutorial</a> y descubra cuáles son las Oportunidades de venta
+        están listos para ser abordados por un vendedor.
+    first_steps: Primeros pasos
+    first_steps_description: Entender a su público objetivo y preparar el RD Station
+      para tu estrategia de Inbound
+    first_steps_img: first_steps.png
+    first_steps_actions:
+      create_persona: Crear personaje
+      create_persona_description: Represente el público objetivo de su empresa por
+        medio de una Persona, facilitando la creación de ofertas de contenido y segmentación
+        de clientes potenciales.
+      create_persona_know_more: Entienda la <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/producao-de-oferta"
+        target="_blank">importancia de definir el público</a> que usted quiere atraer,
+        antes de poner la mano en la masa para crear contenidos ricos.
+      purchase_journey: Dibujar jornada de compra
+      create_custom_field: Crear campos personalizados
+      create_custom_field_description: Con base en la Persona, crear campos personalizados
+        para almacenar la información que usted va a preguntar en una Landing Page.
+      create_custom_field_know_more: Entienda la <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/202479059-Por-qu%C3%AA-criar-Campos-Personalizados-"
+        target="_blank">importancia de los campos personalizados</a> y su papel dentro
+        del RD Station.
+      import_contacts: Importar contactos
+      import_contacts_description: Importar contactos que usted ya posee para el RD
+        Station para comenzar a relacionarse con ellos por correo electrónico.
+      import_contacts_know_more: Siga el <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/201747314-Como-importar-Leads-no-RD-Station-"
+        target="_blank">paso a paso</a> y descubre lo fácil que es importar tus contactos
+        actuales para el RD Station.
+    relationship_by_email_img: correo electrónico.png
+    relationship_by_email: Relación por e-mail
+    relationship_by_email_description: Se relaciona con sus clientes potenciales por
+      correo electrónico para llevarlos al momento de la compra
+    relationship_by_email_actions:
+      import_contacts: Importar contactos
+      import_contacts_description: Importar contactos que usted ya posee para el RD
+        Station para comenzar a relacionarse con ellos por correo electrónico.
+      import_contacts_know_more: Siga el <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/201747314-Como-importar-Leads-no-RD-Station-"
+        target="_blank">paso a paso</a> y descubre lo fácil que es importar tus contactos
+        actuales para el RD Station.
+      publish_popup: Publicar pop-up en el sitio
+      segment_leads: Segmentación de clientes potenciales para la campaña de e-mail
+      segment_leads_description: Filtre su Base de clientes potenciales de acuerdo
+        con algunos criterios, para mejorar el rendimiento de su campaña de correo
+        electrónico.
+      segment_leads_know_more: Descubre por qué a la <a href="http://resultadosdigitais.com.br/blog/segmentacao-como-gerar-melhores-resultados-enviando-menos-emails/"
+        target="_blank">segmentación es el secreto</a> por detrás de excelentes campañas
+        de correo electrónico.
+      send_campaign: Enviar una campaña de email
+      send_campaign_description: Crear una campaña de correo electrónico para relacionarse
+        con sus clientes potenciales y llevarlos hasta el momento de la compra.
+      send_campaign_know_more: 'Siga los pasos de nuestro <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/relacionamento-por-email/campanha-de-email-marketing"
+        target="_blank">paso a paso</a> y descubre cómo el email marketing puede ayudarte
+        a vender a cada vez más clientes potenciales! '
+    content_management: Planificación de Contenidos
+    content_management_img: management_content.png
+    content_management_description: Utilice el blog de su empresa para mejorar el
+      tráfico de su sitio web y educar a su base de clientes potenciales
+    content_management_actions:
+      publish_post: Publicar en el blog
+      publish_post_description: Publicar un post en el blog de su empresa, para cultivar
+        la presencia digital de tu marca.
+      publish_post_know_more: Descubra <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/planejamento-de-conteudo/producao-de-conteudo-para-blog"
+        target="_blank">cómo RD escribe</a> los posts de tu blog y algunos consejos
+        sobre cómo aprovechar al máximo este canal!
+      promote_landing_page: Promover Landing Page en el blog
+      promote_landing_page_description: Agregue CTAs en su blog para llevar visitantes
+        a tu Landing Page.
+      promote_landing_page_know_more: Descubra <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/mecanica-de-leads/promocao-de-oferta-para-os-visitantes-do-seu-site-e-blog"
+        target="_blank">¿qué son las CTAs</a> y cómo se puede utilizar el tráfico
+        de tu blog para generar aún más Leads!
+      schedule_posts: Programar mensajes en las redes sociales para promover post
+        en el blog
+      schedule_posts_description: Promueve tu post en el blog en Facebook, Twitter
+        y LinkedIn, para aumentar su alcance.
+      schedule_posts_know_more: Siga los pasos de nuestro <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/planejamento-de-conteudo/promocao-do-blog-postagens"
+        target="_blank">tutorial</a> y descubre diez formas gratuitas para aumentar
+        el número de Visitantes de tu blog!
+      segment_for_campaign: Orientar a la campaña de correo electrónico
+      segment_for_campaign_description: Filtre su Base de clientes potenciales de
+        acuerdo con algunos criterios, para mejorar el rendimiento de su campaña de
+        correo electrónico.
+      segment_for_campaign_know_more: Descubre por qué a la <a href="http://resultadosdigitais.com.br/blog/segmentacao-como-gerar-melhores-resultados-enviando-menos-emails/"
+        target="_blank">segmentación es el secreto</a> por detrás de excelentes campañas
+        de correo electrónico.
+      email_to_promote_post: Enviar correo electrónico a promover post en el blog
+      email_to_promote_post_description: Envíe el post que has publicado en el blog
+        por correo electrónico a sus contactos actuales y intensifique su relación
+        con ellos.
+      email_to_promote_post_know_more: 'Siga los pasos de nuestro <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/relacionamento-por-email/campanha-de-email-marketing"
+        target="_blank">paso a paso</a> y descubre cómo el email marketing puede ayudarte
+        a vender a cada vez más clientes potenciales! '
+    opportunity_generation_img: opportunity_generation.png
+    opportunity_generation: Generación de oportunidades
+    opportunity_generation_actions:
+      publish_bofu_landing_page: Publicar Landing Page de fondo de la tolva
+      promote_landing_page: Programar mensajes en las redes sociales para promover
+        Landing Page
+      segment_for_campaign: Orientar a la campaña
+      email_to_promote_landing_page: Enviar correo electrónico a promover Landing
+        Page
+      promote_landing_page_on_blog: Promover Landing Page en el blog
+      promote_landing_page_on_site: Promover Landing Page en el sitio web
+      promote_landing_page_on_paid_media: Promover Landing Page en los medios de comunicación
+        de paga
+      segment_opportunities: Orientar oportunidades
+      segment_opportunities_per_conversion: Orientar oportunidades por conversión
+      mark_opportunities: Marcar oportunidades
+      qualification_automation: Flujo de calificación
+    advanced_config: Configuración avanzada
+    advanced_config_img: advanced_settings.png
+    advanced_config_description: ''
+    advanced_config_actions:
+      invite_users: Invitar a los usuarios
+      invite_users_description: Invita a tus compañeros para utilizar el RD Station.
+      invite_users_know_more: Entienda los <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/205534529-Quais-perfis-de-acesso-est%C3%A3o-dispon%C3%ADveis-para-minha-conta-"
+        target="_blank">perfiles diferentes</a> de usuarios e invita a todo su equipo
+        para el RD Station!
+      connect_social_media: Conectar con Facebook, Twitter y Linkedin
+      connect_social_media_description: Conecte sus cuentas de Facebook, Twitter y
+        LinkedIn para programar publicaciones por el RD Station.
+      connect_social_media_know_more: Vaya a la <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/207924983-Por-que-conectar-minhas-M%C3%ADdias-Sociais-ao-RD-Station-"
+        target="_blank">Centro de Ayuda</a> y entienda por qué conectar sus redes
+        sociales al RD Station.
+      activate_lead_tracking: Activar Sin Tracking
+      activate_lead_tracking_description: Active el Lead Tracking para comenzar a
+        supervisar a todos los Visitantes de su sitio web.
+      activate_lead_tracking_know_more: Descubre qué es el <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/206066476"
+        target="_blank">Lead Tracking</a> y cómo usarlo para potenciar sus resultados
+        con el RD Station!
+    initial_config: Configuraciones Básicas
+    initial_config_img: settings.png
+    initial_config_description: Siga el paso a paso a continuación para configurar
+      la cuenta del RD Station
+    initial_config_actions:
+      connect_ga: Conectar Google Analytics
+      connect_ga_description: Conecte su cuenta de Google Analytics para realizar
+        el seguimiento de las métricas de tu sitio web y blog.
+      connect_ga_know_more: Siga los pasos de nuestro <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/203656389-Por-que-conectar-o-Google-Analytics-ao-RD-Station-"
+        target="_blank">tutorial</a> y vea lo fácil que es conectar Google Analytics
+        al RD Station.
+      configure_social_conversion: Configuración de conversión social
+      configure_domains: Configurar dominios
+      configure_domains_description: Personaliza el dominio de las Landing Pages y
+        autorice el RD Station enviar correo en nombre de su empresa.
+      configure_domains_know_more: Vaya a la <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/209363986-Por-que-configurar-meus-dom%C3%ADnios-e-subdom%C3%ADnios"
+        target="_blank">Centro de Ayuda</a> para entender la importancia de los dominios
+        y realizar esta configuración.
+      install_code: Instalar el Código de Seguimiento
+      install_code_description: Instalar el Código de Seguimiento del RD Station en
+        el sitio web de su empresa.
+      install_code_know_more: Vaya a la <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/206139393-O-que-%C3%A9-o-C%C3%B3digo-de-Monitoramento-do-RD-Station-"
+        target="_blank">Centro de Ayuda</a> para entender lo que es el Código de Seguimiento
+        del RD Station y cómo realizar esta configuración.
+      publish_popup: Publicar pop-up en el sitio
+      create_form: Crear un formulario para el sitio web
+      integrate_form_on_site: Integrar el formulario del sitio web
+      integrate_form_on_site_description: Integre los formularios de su página web
+        para que las conversiones sean contabilizadas en el RD Station.
+      integrate_form_on_site_know_more: Integrando los formularios del sitio web al
+        RD Station, usted puede centralizar todos sus clientes potenciales en un solo
+        lugar. Siga el <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/208726186--Beta-Como-gerar-e-instalar-o-script-de-integra%C3%A7%C3%A3o-de-formul%C3%A1rios-"
+        target="_blank">paso a paso</a> para realizar esta configuración.
+      integrate_crm: Integrar CRM
+      integrate_crm_description: Integrar el CRM con el RD Station y facilite el otorgamiento
+        de Oportunidades para sus vendedores.
+      integrate_crm_know_more: Accede a la <a href="https://app.rdstation.com.br/integracoes">área
+        de Integraciones</a> para integrar el CRM al RD Station.
+    automation_qualification_img: automation_qualification.png
+    automation_qualification: Clasificación automática de leads
+    automation_qualification_actions:
+      configure_lead_scoring: Configurar Lead Scoring
+      segment_with_lead_scoring: Segmentación con Lead Scoring
+      activate_lead_tracking: Activar Sin Tracking
+      segment_with_lead_tracking: Segmentación con Lead Tracking
+      create_automation_for_nutrition: Crear flujo de automatización para la nutrición
+    marketing_automation_img: marketing_automation.png
+    marketing_automation: Automatización de Marketing
+    marketing_automation_description: Dibuje la jornada de compra de sus clientes
+      potenciales y conduzca automáticamente hasta que la decisión de comprar su producto
+      o servicio.decisión
+    marketing_automation_actions:
+      plan_buy_journey: Dibujar jornada de compra
+      plan_buy_journey_description: Dibuja el camino que su Lead recorre desde el
+        descubrimiento de su empresa hasta la decisión de compra.
+      plan_buy_journey_know_more: La jornada de compra es una poderosa herramienta
+        para saber si un registro está listo para comprar! Descubre lo fácil que es
+        <a href="http://ferramentas.resultadosdigitais.com.br/ferramenta-jornada/">dibujar
+        la jornada de compra</a> de su público objetivo.
+      automation_criteria: Establecer los criterios de entrada de la automatización
+      automation_criteria_description: Define cuáles serán los criterios de entrada
+        para un Lead ser introducido en el flujo de la automatización.
+      automation_criteria_know_more: El gatillo puede ser, por ejemplo, la conversión
+        en un determinado formulario o la entrada del Lead en una segmentación. Entienda
+        en detalle <a href="http://ajuda.rdstation.com.br/hc/pt-br/articles/203027299-Como-funciona-a-entrada-de-um-Lead-num-fluxo-de-Automa%C3%A7%C3%A3o-">cómo
+        establecer el gatillo</a> del flujo de automatización.
+      email_models: Crear plantillas de correo electrónico de la automatización
+      email_models_description: Cree el correo electrónico que será enviado a los
+        clientes potenciales.
+      email_models_know_more: Al crear el contenido del correo electrónico, recuerde
+        tener en cuenta que la fase actual del Plomo en la jornada de compra. Siga
+        los pasos de nuestro <a href="https://app.rdstation.com.br/metodologia/prova-de-canal/relacionamento-por-email/campanha-de-email-marketing">passo-a-passo</a>
+        y escriba el correo electrónico efectivos!
+      flow_activate: Activar el flujo de automatización para la nutrición
+      flow_activate_description: Cree un flujo de automatización para nutrir sus clientes
+        potenciales con contenidos ricos y lograr de ellos automáticamente hasta el
+        momento de la compra.
+      flow_activate_know_more: Lea nuestro <a href="https://s3.amazonaws.com/rd-marketing-objects/emkt_ebook-automacao/automacao-de-marketing.pdf">eBook</a>
+        acerca de Automatización de Marketing y conviértete en un experto en el tema!
